@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(../fonts/Poppins-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Poppins-Medium";
+    src: url(../fonts/Poppins-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: url(../fonts/Poppins-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(../fonts/Poppins-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Quick-Kiss-Personal-Use";
+    src: url(../fonts/Quick\ Kiss\ Personal\ Use.ttf);
+    font-weight: 400;
+}
